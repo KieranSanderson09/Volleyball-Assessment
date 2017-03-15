@@ -12,3 +12,8 @@ As Slammer has stated they have about 100 customers at the moment, we can establ
 
 Target Audience: 
 The website is intended to appeal to the younger audience as Slammer would like to increase customers of the age between 15-30. 
+
+Flowchart:                                           HOME PAGE 
+                          
+                          ABOUT VOLLEYBALL          COMPETITION          SIGN UP
+                         
