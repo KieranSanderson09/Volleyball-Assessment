@@ -1,0 +1,35 @@
+@charset "utf-8";
+@import url("Header.css");
+body {
+	background-color: #C9EC5E;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif
+}
+body h2 {
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	text-decoration: underline;
+}
+
+.SignUp {
+	text-align: center;
+	font-style: normal;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bolder;
+	font-size: x-large;
+	background-color: #708ECC;
+	text-decoration: underline;
+
+}
+
+.Nav {
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size: large;
+}
+body h1 { font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	text-align: center;
+	text-decoration: underline
+
+}
+
+.main {
+	font-size: xx-large;
+}
